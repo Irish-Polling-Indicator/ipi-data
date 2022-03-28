@@ -37,3 +37,7 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+
+# Files for creating the codebook
+*codebook_ipi-data.Rmd
+*bibliography.bib
