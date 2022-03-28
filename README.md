@@ -1,4 +1,4 @@
-# Irish Polling Indicator Datasets: Development Version (ipi-data)
+# Irish Polling Indicator Datasets: Development Version
 
 
 ## Introduction
