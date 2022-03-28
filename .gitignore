@@ -41,3 +41,5 @@ vignettes/*.pdf
 # Files for creating the codebook
 *codebook_ipi-data.Rmd
 *bibliography.bib
+
+*.DS_Store
