@@ -5,7 +5,7 @@
 
 The Irish Polling Indicator (https://pollingindicator.com) provides daily aggregated estimates of support for Irish political parties. The project started in 2014 and is maintained by Tom Louwerse and Stefan Müller. 
 
-The [codebook](codeboo_ipi-data.pdf) describes all datasets and variables in detail. 
+The [codebook](codebook_ipi-data.pdf) describes all datasets and variables in detail. 
 
 We provide two datasets:
 
