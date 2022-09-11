@@ -43,3 +43,4 @@ vignettes/*.pdf
 *bibliography.bib
 
 *.DS_Store
+.~lock.data_polls.csv\#
