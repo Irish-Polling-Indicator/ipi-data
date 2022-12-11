@@ -36,7 +36,7 @@ Users who do not need access to the most recent files but only need data until t
 
 We provide `data_pollingindicator` and `data_polls` in four file formats. 
 
-- `csv`: The [comma-separated values](https://en.wikipedia.org/wiki/Comma-separated_values) file ensures inter-operability as it can be opened in R, Pyhton, Stata, SPSS, and Excel.
+- `csv`: The [comma-separated values](https://en.wikipedia.org/wiki/Comma-separated_values) file ensures inter-operability as it can be opened in R, Python, Stata, SPSS, and Excel.
 - `xlsx`: The [Excel spreadsheets](https://en.wikipedia.org/wiki/Microsoft_Excel) allow for an even more straightforward import of the data into Microsoft Excel.
 - `dta`: This file can be used to import the datasets  with correct variable encodings into [Stata](https://stata.com).
 - `rds`: The RDS file is optimised for the [R](https://r-project.org) statistical programming language and stores the variables in the correct data type.
