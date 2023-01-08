@@ -19,11 +19,11 @@ We provide two datasets:
 
 Both of the datasets have been published in two data repositories. Everyone is welcome and free to use the estimates and polling results as long as the corresponding datasets are cited.
 
-This GitHub repository [IrishPollingIndicator/ipi-data](https://github.com/IrishPollingIndicator/ipi-data) contains the "development version" of the datasets. These datasets are updated after the release of new polls and thus change over time. Moreover, the estimates for previous dates in the current term may change after the releases of new polls [for details see see @louwerse16].
+This GitHub repository [IrishPollingIndicator/ipi-data](https://github.com/IrishPollingIndicator/ipi-data) contains the "development version" of the datasets. These datasets are updated after the release of new polls and thus change over time. Moreover, the estimates for previous dates in the current term may change after the releases of new polls [for details see see [Louwerse 2016](https://doi.org/10.1080/07907184.2016.1213719)].
 
 If you use data from the development version, please cite: 
 
-- Tom Louwerse and Stefan Müller. 2022. _Irish Polling Indicator Datatsets: Development Version._  URL: https://github.com/Irish-Polling-Indicator/ipi-data.
+- Tom Louwerse and Stefan Müller. 2023. _Irish Polling Indicator Datatsets: Development Version._  URL: https://github.com/Irish-Polling-Indicator/ipi-data.
 
 ### Stable Version
 
