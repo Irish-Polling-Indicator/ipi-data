@@ -19,18 +19,18 @@ We provide two datasets:
 
 Both of the datasets have been published in two data repositories. Everyone is welcome and free to use the estimates and polling results as long as the corresponding datasets are cited.
 
-This GitHub repository [IrishPollingIndicator/ipi-data](https://github.com/IrishPollingIndicator/ipi-data) contains the "development version" of the datasets. These datasets are updated after the release of new polls and thus change over time. Moreover, the estimates for previous dates in the current term may change after the releases of new polls [for details see see [Louwerse 2016](https://doi.org/10.1080/07907184.2016.1213719)].
+This GitHub repository [IrishPollingIndicator/ipi-data](https://github.com/IrishPollingIndicator/ipi-data) contains the "development version" of the datasets. These datasets are updated after the release of new polls and thus change over time. Moreover, the estimates for previous dates in the current term may change after the releases of new polls (for details see see [Louwerse 2016](https://doi.org/10.1080/07907184.2016.1213719)).
 
 If you use data from the development version, please cite: 
 
-- Tom Louwerse and Stefan Müller. 2023. _Irish Polling Indicator Datatsets: Development Version._  URL: https://github.com/Irish-Polling-Indicator/ipi-data.
+- Tom Louwerse and Stefan Müller. 2026. _Irish Polling Indicator Datatsets: Development Version._  URL: https://github.com/Irish-Polling-Indicator/ipi-data.
 
 ### Stable Version
 
 Users who would like to access the most recent data should download and analyse the development version. 
-Users who do not need access to the most recent files but only need data until the end of a calendar year should use and cite the stable version.  The "stable version" is stored at Harvard's Dataverse. New releases are published after an election cycle. The stable version has a unique identifier (DOI: [10.7910/DVN/BY5GXC](https://doi.org/10.7910/DVN/BY5GXC)), and the daily estimates will not change since all polls in an election cycle are considered.
+Users who do not need access to the most recent files but only need data until the end of a calendar year should use and cite the stable version.  The "stable version" is stored at Harvard's Dataverse. New releases are published after an election cycle. The stable version has a unique identifier (DOI: [10.7910/DVN/8YVVYX](https://doi.org/10.7910/DVN/8YVVYX)), and the daily estimates will not change since all polls in an election cycle are considered.
 
-- Tom Louwerse and Stefan Müller. 2022. _Irish Polling Indicator Datasets: Stable Version_. Harvard Dataverse, V1. DOI: [10.7910/DVN/BY5GXC](https://doi.org/10.7910/DVN/BY5GXC)
+- Tom Louwerse and Stefan Müller. 2025. _Irish Polling Indicator Datasets: Stable Version_. Harvard Dataverse, V1. DOI: [10.7910/DVN/8YVVYX](https://doi.org/10.7910/DVN/8YVVYX).
 
 ## File Formats
 
